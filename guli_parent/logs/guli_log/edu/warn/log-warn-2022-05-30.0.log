@@ -1,0 +1,19 @@
+2022-05-30 14:53:31.383 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 14:53:31.391 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 15:13:07.001 [http-nio-8001-exec-7] WARN  o.s.c.a.ClassPathScanningCandidateComponentProvider - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-05-30 16:33:18.081 [http-nio-8001-exec-2] WARN  o.s.c.a.ClassPathScanningCandidateComponentProvider - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-05-30 16:51:41.551 [http-nio-8001-exec-8] WARN  o.s.c.a.ClassPathScanningCandidateComponentProvider - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-05-30 16:54:06.526 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 16:54:06.533 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 16:56:10.144 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 16:56:10.152 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 16:59:08.687 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 16:59:08.692 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 17:10:21.079 [http-nio-8001-exec-6] WARN  o.s.c.a.ClassPathScanningCandidateComponentProvider - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-05-30 17:12:41.941 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 17:12:41.947 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 18:38:50.699 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 18:38:50.705 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-05-30 18:50:24.444 [http-nio-8001-exec-7] WARN  o.s.c.a.ClassPathScanningCandidateComponentProvider - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-05-30 19:00:21.129 [http-nio-8001-exec-6] WARN  o.s.c.a.ClassPathScanningCandidateComponentProvider - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-05-30 23:52:26.014 [GuliHikariPool housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - GuliHikariPool - Thread starvation or clock leap detected (housekeeper delta=3h4s866ms322µs400ns).

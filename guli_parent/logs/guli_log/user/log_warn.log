@@ -1,0 +1,12 @@
+2022-06-09 09:26:31.756 [main] WARN  o.s.c.a.ClassPathScanningCandidateComponentProvider - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-06-09 09:26:39.790 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-06-09 09:26:39.804 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-06-09 09:39:39.645 [http-nio-8160-exec-1] WARN  o.s.c.a.ClassPathScanningCandidateComponentProvider - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-06-09 09:51:26.263 [http-nio-8160-exec-7] WARN  o.s.c.a.ClassPathScanningCandidateComponentProvider - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-06-09 10:04:09.618 [http-nio-8160-exec-1] WARN  o.s.c.a.ClassPathScanningCandidateComponentProvider - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-06-10 13:49:48.267 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-06-10 13:49:53.640 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-06-10 13:49:53.648 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-06-11 12:02:42.036 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tzl.edu.mapper]' package. Please check your configuration.
+2022-06-11 12:02:45.347 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-06-11 12:02:45.353 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.

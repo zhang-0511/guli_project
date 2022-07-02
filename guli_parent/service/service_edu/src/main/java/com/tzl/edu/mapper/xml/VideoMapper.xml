@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.tzl.edu.mapper.VideoMapper">
+
+    <update id="updatePlayCount">
+        update edu_video set play_count = play_count +1, gmt_modified = now() where video_source_id = #{videoSourceId}
+    </update>
+
+    <select id="palyCount" resultType="java.lang.Integer">
+        select sum(play_count) from edu_video where date(gmt_modified) = #{day}
+    </select>
+</mapper>

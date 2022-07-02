@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31188fd7-2af7-4ca4-9ee0-bad04829b3d6" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="29phscNpdSrXWZMMsboz8CQPUoN" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/photo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+    <property name="ts.external.directory.path" value="D:\Java\IntelliJ IDEA 2021.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="vuejs.nuxt.types-notification-shown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli-site\assets\photo" />
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli-site\assets\js" />
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli-site\assets\img" />
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli-site\assets\css" />
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli-site\utils" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="31188fd7-2af7-4ca4-9ee0-bad04829b3d6" name="默认变更列表" comment="" />
+      <created>1653816143515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653816143515</updated>
+      <workItem from="1653816145632" duration="25155000" />
+      <workItem from="1653974573881" duration="1278000" />
+      <workItem from="1653975871982" duration="7712000" />
+      <workItem from="1653990585668" duration="593000" />
+      <workItem from="1654058178800" duration="1710000" />
+      <workItem from="1654170969810" duration="3194000" />
+      <workItem from="1654182991335" duration="199000" />
+      <workItem from="1654228965597" duration="10281000" />
+      <workItem from="1654323595847" duration="5512000" />
+      <workItem from="1654478821124" duration="3842000" />
+      <workItem from="1654589969278" duration="2083000" />
+      <workItem from="1654669296150" duration="11062000" />
+      <workItem from="1654839261386" duration="3559000" />
+      <workItem from="1654917232103" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

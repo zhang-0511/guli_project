@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15851cd0-a678-4e32-bed2-4a592c7fcace" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\apache-maven-3.6.2\ref" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="29CSphm5NR7h4eah4cj2o5giwK9" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/新建草稿文件" value="XML" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/更改语言" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.1484375" />
+    <property name="project.structure.side.proportion" value="0.17035776" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli_parent\common\spring_security\src\main\java\com\tzl" />
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli_parent\service\service_acl\src\main\java\com\tzl\acl" />
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli_parent\model\src\main\java\com\tzl\model\entity" />
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli_parent\service\service_acl\src\main\resources" />
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli_parent\service_gateWay\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tzl\Desktop\学习内容\谷粒学苑\project\guli_parent\service\service_edu\src\main\java\com\tzl\edu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tzl.utils" />
+      <recent name="com.tzl.model.vo" />
+      <recent name="" />
+      <recent name="com.tzl.acl" />
+      <recent name="com.tzl.gateWay" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.MemuHelper">
+    <configuration name="MemuHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tzl.acl.helper.MemuHelper" />
+      <module name="service_acl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tzl.acl.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermissionServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tzl.acl.service.impl.PermissionServiceImpl" />
+      <module name="service_acl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tzl.acl.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_acl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_acl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tzl.acl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tzl.acl.AclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_gateWay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tzl.gateWay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tzl.gateWay.ApiGateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CodeGenerator.run" />
+      <item itemvalue="Spring Boot.ApiGateWayApplication" />
+      <item itemvalue="Spring Boot.AclApplication" />
+      <item itemvalue="应用程序.MemuHelper" />
+      <item itemvalue="应用程序.PermissionServiceImpl" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AclApplication" />
+        <item itemvalue="Spring Boot.ApiGateWayApplication" />
+        <item itemvalue="应用程序.MemuHelper" />
+        <item itemvalue="应用程序.PermissionServiceImpl" />
+        <item itemvalue="JUnit.CodeGenerator.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="15851cd0-a678-4e32-bed2-4a592c7fcace" name="默认变更列表" comment="" />
+      <created>1652615760694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652615760694</updated>
+      <workItem from="1652615763634" duration="31965000" />
+      <workItem from="1652848420441" duration="1256000" />
+      <workItem from="1652849705751" duration="10046000" />
+      <workItem from="1652863581756" duration="1143000" />
+      <workItem from="1652867437940" duration="7947000" />
+      <workItem from="1652931598143" duration="3339000" />
+      <workItem from="1652946058926" duration="628000" />
+      <workItem from="1653012855035" duration="3633000" />
+      <workItem from="1653026469295" duration="188000" />
+      <workItem from="1653032616700" duration="1041000" />
+      <workItem from="1653042738181" duration="384000" />
+      <workItem from="1653043136370" duration="3522000" />
+      <workItem from="1653098963967" duration="25192000" />
+      <workItem from="1653192040090" duration="18083000" />
+      <workItem from="1653298082432" duration="647000" />
+      <workItem from="1653368270190" duration="2119000" />
+      <workItem from="1653371029993" duration="12585000" />
+      <workItem from="1653475558288" duration="7418000" />
+      <workItem from="1653527904872" duration="8726000" />
+      <workItem from="1653539498028" duration="15000" />
+      <workItem from="1653539541769" duration="219000" />
+      <workItem from="1653539783199" duration="20430000" />
+      <workItem from="1653634723256" duration="105000" />
+      <workItem from="1653634851839" duration="10078000" />
+      <workItem from="1653703271735" duration="655000" />
+      <workItem from="1653708660641" duration="20668000" />
+      <workItem from="1653791902329" duration="6831000" />
+      <workItem from="1653816895749" duration="20163000" />
+      <workItem from="1653974564851" duration="8411000" />
+      <workItem from="1653990589567" duration="2481000" />
+      <workItem from="1654056962050" duration="5623000" />
+      <workItem from="1654170805497" duration="70000" />
+      <workItem from="1654170900167" duration="1657000" />
+      <workItem from="1654182912062" duration="13114000" />
+      <workItem from="1654323595654" duration="5951000" />
+      <workItem from="1654478420816" duration="4418000" />
+      <workItem from="1654589828478" duration="4395000" />
+      <workItem from="1654668849046" duration="21242000" />
+      <workItem from="1654839242754" duration="10053000" />
+      <workItem from="1654911469606" duration="21395000" />
+      <workItem from="1656421719763" duration="2535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/service/service_order/src/main/java/com/tzl/order/service/OrderService.java</url>
+          <line>18</line>
+          <properties class="com.tzl.order.service.OrderService" method="getOrderUser">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.tzl.edu.mapper.CourseMapper">
+
+
+    <select id="getCoursePublishVoById" resultType="com.tzl.model.vo.CoursePublishVo">
+        select  c.id,c.title,c.cover,c.price,c.lesson_num,d.description, t.`name` teacherName,s1.title subjectLevelOne,s2.title subjectLevelTwo
+        from edu_course c left join edu_course_description d on c.id = d.id
+                          Left join edu_teacher t on c.teacher_id = t.id
+                          left join edu_subject s1 on c.subject_parent_id = s1.id
+                          left join edu_subject s2 on c.subject_id = s2.id
+        where c.id = #{courseId}
+    </select>
+    <select id="getPageCourse" resultType="com.tzl.model.vo.CourseVo">
+        select  c.id,c.teacher_id,c.subject_id,c.subject_parent_id, c.title,c.price,c.lesson_num,c.cover,c.buy_count,c.`status`,c.gmt_create,c.gmt_modified, t.avatar,t.`name`,s1.title subjectLevelOne,s2.title subjectLevelTwo
+        from edu_course c Left join edu_teacher t on c.teacher_id = t.id
+                          left join edu_subject s1 on c.subject_parent_id = s1.id
+                          left join edu_subject s2 on c.subject_id = s2.id
+        <where>
+            <if test="null!= course.teacherId and ''!= course.teacherId">
+                and c.teacher_id = #{course.teacherId}
+            </if>
+            <if test="null!= course.title and ''!= course.title">
+                and c.title like concat('%',#{course.title},'%')
+            </if>
+            <if test="null!= course.subjectParentId and ''!= course.subjectParentId">
+                and c.subject_parent_id = #{course.subjectParentId}
+            </if>
+            <if test="null!= course.subjectId and ''!= course.subjectId">
+                and c.subject_id = #{course.subjectId}
+            </if>
+            <if test="null!= course.status and ''!= course.status">
+                and c.status = #{course.status}
+            </if>
+            <if test="course.isFree == 0">
+                and c.price = 0
+            </if>
+            <if test=" course.isFree == 1">
+                and c.price &lt;> 0
+            </if>
+            <if test="null!= course.begin and ''!= course.begin">
+                and c.gmt_create &gt;= #{course.begin}
+            </if>
+            <if test="null!= course.end and ''!= course.end">
+                and c.gmt_create &lt;= #{course.end}
+            </if>
+            and c.is_deleted = 0
+        </where>
+        limit #{firstIndex}, #{lastIndex}
+    </select>
+
+
+    <update id="updateViewCount">
+        update edu_course set view_count = view_count + 1, view_time = now() where id = #{courseId}
+    </update>
+    <update id="updateBuyCount">
+        update edu_course set buy_count = buy_count + 1, buy_time = now() where id = #{courseId}
+    </update>
+
+    <select id="getBuyCountByDay" resultType="java.lang.Integer">
+        select sum(buy_count) from edu_course where date(buy_time) = #{day}
+    </select>
+
+    <select id="getViewCountByDay" resultType="java.lang.Integer">
+        select sum(view_count) from edu_course where date(view_time) = #{day}
+    </select>
+
+</mapper>
